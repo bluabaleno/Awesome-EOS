@@ -78,6 +78,7 @@
 - [Reddit](https://www.reddit.com/r/eos/)
 - [EOS Talk](https://eostalk.io)
 - [Discord Channel](http://eos.social/)
+- [Discussions](Discussions.app/tag/eos)
 
 ## EOS Telegram Channels (Download [Bettergram)](https://bettergram.io/) 
 
